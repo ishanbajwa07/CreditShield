@@ -1,0 +1,23 @@
+artifact_path: /Users/ishanbajwa/Desktop/creditshield/mlruns/1/models/m-ce936085b11143e091008084a48a240d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-ce936085b11143e091008084a48a240d
+model_size_bytes: 471772
+model_uuid: m-ce936085b11143e091008084a48a240d
+prompts: null
+run_id: 0e394177d75743feafd05c63f4e84a61
+utc_time_created: '2026-06-18 08:03:50.500774'
