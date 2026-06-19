@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 **[Live demo →](https://ishanbajwa07-creditshield.hf.space)**<img width="1352" height="878" alt="Screenshot 2026-06-19 at 10 11 38 am" src="https://github.com/user-attachments/assets/67498991-c6ee-4c7c-97be-c6a93ef512b0" />
 
+=======
+**[Live demo →](https://ishanbajwa07-creditshield.hf.space)**
+>>>>>>> 59e5caa6c2e43f356e2a38bf952650a602aacf06
 ![CI](https://github.com/ishanbajwa07/CreditShield/actions/workflows/ci.yml/badge.svg)
 
 # CreditShield
@@ -97,6 +101,12 @@ streamlit run app/streamlit_app.py
 
 ## What I'd add next
 
+<<<<<<< HEAD
 - Automatic retraining trigger when Evidently flags data drift
 - A `/batch` endpoint for scoring many applicants in one request
 - Monitoring actual model performance over time, not just input drift
+=======
+- Retraining trigger when Evidently flags drift
+- A /batch endpoint for scoring multiple applicants at once
+- Model performance monitoring (not just data drift)
+>>>>>>> 59e5caa6c2e43f356e2a38bf952650a602aacf06
