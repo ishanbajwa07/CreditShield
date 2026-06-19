@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **[Live demo →](https://ishanbajwa07-creditshield.hf.space)**<img width="1352" height="878" alt="Screenshot 2026-06-19 at 10 11 38 am" src="https://github.com/user-attachments/assets/67498991-c6ee-4c7c-97be-c6a93ef512b0" />
 
 =======
